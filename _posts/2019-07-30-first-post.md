@@ -1,6 +1,7 @@
-
-Welcome! 
-Get to know me
+---
+layout:post
+title: Welcome! 
+subtitle: Get to know me
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
