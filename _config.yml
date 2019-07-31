@@ -102,14 +102,15 @@ url-pretty: "Ash827.com"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "<!-- Global site tag (gtag.js) - Google Analytics -->
+google_analytics: "
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-144899201-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'UA-144899201-1');
-</script>"
+</script>
+"
 
 # Google Tag Manager ID
 #gtm: ""
